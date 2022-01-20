@@ -1,0 +1,12 @@
+@media (min-width: 992px){
+   .col-lg-6{
+    margin-top: 9rem;
+   }
+
+}
+
+@media (min-width: 576px){
+    .mt-sm-2 {
+        margin-top: 5.5rem;
+    }
+}
